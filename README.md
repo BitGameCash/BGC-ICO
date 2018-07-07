@@ -10,5 +10,5 @@ supportednsmart contract Blockchain, with a huge development community and robus
 
 For more info please visit our websites:
 
-BitGameCash.io
-BitGameCash.com
+https://bitgamecash.io
+https://bitgamecash.com
